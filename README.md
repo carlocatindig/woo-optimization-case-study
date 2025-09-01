@@ -12,7 +12,7 @@ The optimization was performed locally in a development environment. Due to free
 - Largest Contentful Paint (LCP): 8.7s
 - Speed Index: 8.9s
 
-👉 [Insert before PageSpeed screenshots here]
+<img src="mobile-speed-before.png">
 
 ## Optimization Process
 ### Plugins & Tools Used
@@ -32,11 +32,11 @@ The optimization was performed locally in a development environment. Due to free
 ## Results After Optimization
 
 - Mobile Score: 90+
-- First Contentful Paint (FCP): ~1.8s
-- Largest Contentful Paint (LCP): ~2.4s
-- Speed Index: ~2.7s
+- First Contentful Paint (FCP): ~2.3s
+- Largest Contentful Paint (LCP): ~2.8s
+- Speed Index: ~2.3s
 
-👉 [Insert after PageSpeed screenshots here]
+<img src="/mobile-speed-after.png">
 
 ## Key Takeaways
 
